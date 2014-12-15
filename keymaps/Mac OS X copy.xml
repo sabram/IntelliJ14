@@ -1,0 +1,50 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="meta alt W" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta V" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+    <keyboard-shortcut first-keystroke="alt L" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+    <keyboard-shortcut first-keystroke="alt H" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift control F" />
+    <keyboard-shortcut first-keystroke="shift meta F" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta F12" />
+    <keyboard-shortcut first-keystroke="alt M" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt O" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt HOME" />
+    <keyboard-shortcut first-keystroke="meta QUOTE" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
