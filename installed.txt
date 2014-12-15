@@ -1,0 +1,9 @@
+com.intellij
+Atlassian Connector for IntelliJ IDE
+BashSupport
+Batch Scripts Support
+com.jetbrains.chronon
+CMD Support
+net.nicoulaj.idea.markdown
+JRebelPlugin
+org.nik.presentation-assistant
